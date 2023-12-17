@@ -9,6 +9,7 @@ This repository contains the implementation of an 8-bit TOY CPU in Logisim. Apol
 - [Overview](#overview)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
 - [Usage](#usage)
     - [Simulating in Logisim](#simulating-in-logisim)
     - [Loading Programs](#loading-programs)
@@ -22,6 +23,16 @@ This repository contains the implementation of an 8-bit TOY CPU in Logisim. Apol
 ### Prerequisites
 
 Make sure you have [Logisim](http://www.cburch.com/logisim/download.html) installed on your machine. Logisim requires Java 5 or later. If you do not have Java installed on your system, download it from [the Java website.](https://www.oracle.com/java/technologies/)
+
+### Installation
+Clone the repository by following these steps:
+- Open a terminal or command prompt.
+- Run the following command to clone the repository:
+
+    ```$ git clone https://github.com/saadmemon1/Apollo-8.git```
+- Change to the project directory to access the repository files:
+
+  ```cd Apollo-8```
 
 ### Instruction Set
 ![Apollo-8 Reference Card.jpg](Apollo-8%20Reference%20Card.jpg)
